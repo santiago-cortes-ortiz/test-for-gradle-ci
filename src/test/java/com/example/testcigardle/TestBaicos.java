@@ -11,6 +11,6 @@ public class TestBaicos {
     @Test
     void test() {
         var a = "a";
-        assertEquals("a", a);
+        assertEquals("b", a);
     }
 }
